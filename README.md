@@ -1,16 +1,34 @@
-## Hi there 👋
+# Diego Oliveira 
 
-<!--
-**oliver-diego/oliver-diego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas buscando a primeira oportunidade de estágio na área de tecnologia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Contatos
+- **LinkedIn:** [Acessar Perfil](https://www.linkedin.com/in/diego-oliveira-88752b396/)
+- **GitHub:** [Acessar GitHub](https://github.com/oliver-diego)
+- **E-mail:** pereiradeoliveiradiego7@gmail.com
+- **Localização:** São Paulo - SP
+
+## Currículo completo
+
+Consulte meu [currículo completo](curriculo.md), com detalhes sobre experiência profissional, formação acadêmica e certificações.
+
+---
+
+### Educação
+- *Análise e Desenvolvimento de Sistemas* (1º Semestre) — Universidade Cruzeiro do Sul
+- *Técnico em Eletrônica* — Etec Carolina Carinhato Sampaio
+
+---
+
+### Experiência
+- **Jovem Aprendiz Administrativo** — ETAPA
+- **Assistente de Instalações** — Temporário
+
+---
+
+### Habilidades
+- Inglês Intermediário a Avançado
+- Pacote Office
+- Organização / Proatividade / Comunicação / Facilidade em Tecnologia
