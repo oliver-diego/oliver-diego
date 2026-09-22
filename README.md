@@ -23,8 +23,8 @@ Consulte meu [currículo completo](curriculo.md), com detalhes sobre experiênci
 ---
 
 ### Experiência
-- **Jovem Aprendiz Administrativo** — ETAPA
-- **Assistente de Instalações** — Temporário
+- **Jovem Aprendiz Administrativo — ETAPA**
+- **Assistente de Instalações — Temporário**
 
 ---
 
